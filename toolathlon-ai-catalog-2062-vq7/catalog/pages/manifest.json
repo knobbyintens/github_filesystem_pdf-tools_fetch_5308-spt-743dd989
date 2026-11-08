@@ -1,0 +1,19 @@
+{
+  "collection_id": "aie-conf-2026",
+  "page_size": 5,
+  "total_results": 52,
+  "first_page_token": "page_01.json",
+  "pages": [
+    "page_01.json",
+    "page_02.json",
+    "page_03.json",
+    "page_04.json",
+    "page_05.json",
+    "page_06.json",
+    "page_07.json",
+    "page_08.json",
+    "page_09.json",
+    "page_10.json",
+    "page_11.json"
+  ]
+}
