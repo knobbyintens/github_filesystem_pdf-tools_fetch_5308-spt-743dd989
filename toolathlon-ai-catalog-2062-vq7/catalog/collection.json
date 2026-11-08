@@ -1,0 +1,18 @@
+{
+  "id": "aie-conf-2026",
+  "title": "AI Engineering Summit 2026 - Curated Talk Archive",
+  "description": "A curated, editorially reviewed archive of conference talks, workshops, panels, and lightning sessions from the 2026 AI Engineering Summit. Each record links a session to the open-source project discussed on stage.",
+  "item_count": 52,
+  "schema": {
+    "item_fields": [
+      "position",
+      "title",
+      "source_label",
+      "topic",
+      "abstract",
+      "project_ref"
+    ],
+    "page_size": 5
+  },
+  "updated_at": "2026-11-08T00:00:00Z"
+}
