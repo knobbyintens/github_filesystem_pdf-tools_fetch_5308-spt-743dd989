@@ -1,7 +1,8 @@
-# Nettlewood Labs
+# Northbridge Component Consolidation - NB-D77BD4
 
-Experiments and prototypes around the Nettlewood orchestration engine. This
-repository collects notebooks and benchmark scripts that are not part of the
-released library.
+This repository tracks component submissions for the NB-D77BD4 cycle of the
+Northbridge Component Consolidation programme.
 
-Experiment follow-ups are tracked in `docs/notes.md`.
+Submissions are recorded as issues. Stakeholders endorse a submission by
+commenting on its issue. The spotlight catalogue is stored in
+`catalog/spotlight_catalog.json`.
