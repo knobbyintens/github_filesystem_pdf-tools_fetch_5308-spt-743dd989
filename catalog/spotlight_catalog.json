@@ -1,5 +1,15 @@
 {
   "program": "Northbridge Component Consolidation",
   "cycle": "NB-D77BD4",
-  "entries": []
+  "entries": [
+    {
+      "cycle": "NB-D77BD4",
+      "issue_number": 57,
+      "title": "Settlement Window Planner",
+      "tier": "Priority",
+      "contested": true,
+      "intake_gap": true,
+      "selected_on": "2026-11-09"
+    }
+  ]
 }
